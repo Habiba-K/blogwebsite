@@ -5,7 +5,7 @@ export const posts = [
       description:
         "Explore the fundamental of HTML, the backbone of every web page Explore the fundamental of HTML, the backbone of every web page Explore the fundamental of HTML, the backbone of every web page Explore the fundamental of HTML, the backbone of every web page Explore the fundamental of HTML, the backbone of every web page",
       date: "2024-11-28",
-      imageUrl: "../images/htmlcsswebsite.jpg",
+      imageUrl: "../images/htmlcsswebsite.JPG",
     },
     {
       id: "2",
