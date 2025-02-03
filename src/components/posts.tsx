@@ -35,7 +35,7 @@ React 19 brings important enhancements like concurrent rendering and improved Su
 As web applications become more complex, these technologies are paving the way for faster, more scalable, and maintainable codebases. The integration of both Next.js and React has proven invaluable, and I’m excited to continue using them in future projects.
 
 ",
-      date: "2024-11-28",
+      date: "2025-02-03",
       imageUrl: "../images/htmlcsswebsite.JPG",
     },
     {
